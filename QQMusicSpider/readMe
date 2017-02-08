@@ -1,2 +1,3 @@
 1.nick.txt是从上个爬虫程序QQSpider中不同qq号为种子收集整合得到。
-2.
+2.src/all_music.txt是从nick.txt中得到qq号，在进行qq空间背景音乐爬取，记录了歌曲名，出现频数（降序）
+3.
